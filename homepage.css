@@ -1,0 +1,31 @@
+@charset "utf-8";
+/*
+Template Name: RS-3 Clean
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+File: Homepage CSS
+*/
+
+#container #homepage{display:block; width:100%;}
+
+#container #homepage #shout{display:block; width:100%; margin-bottom:50px; text-align:center;}
+#container #homepage #shout h1{display:inline-block; width:100%; float:left; margin:0 auto; padding:0; font-size:18em; line-height:.8em; color:#000000; background-color:#FFFFFF;}
+
+#container #homepage #services{margin-bottom:50px;}
+#container #homepage #services figure{}
+#container #homepage #services figure header{display:inline-block; width:100%; margin-bottom:50px; text-align:center; font-size:7em;}
+#container #homepage #services figure ul{margin:0; padding:0; list-style:none;}
+#container #homepage #services figure ul li{display:block; position:relative; float:left; width:23.4375%; margin:0 2.08333% 20px 0;}
+#container #homepage #services figure ul li a{display:block; padding-bottom:30px; border-bottom:10px solid #D6D6D6;}
+#container #homepage #services figure ul li a:hover{border-color:#BA2E1F;}
+#container #homepage #services figure ul li a strong{display:none; position:absolute; top:0; left:0; width:70%; height:auto; padding:15%; text-align:center; color:#FFFFFF; background-color:#000000; font-size:1.6em; font-weight:normal;}
+#container #homepage #services figure ul li a:hover strong{display:block; opacity:0.7;}
+#container #homepage #services figure ul li.last{margin-right:0;}
+#container #homepage #services figure figcaption{display:block; clear:both; text-align:right;}
+
+#container #homepage #intro{margin:0; text-align:center;}
+#container #homepage #intro article{}
+#container #homepage #intro article h1{display:inline-block; width:100%; font-size:7em;}
+#container #homepage #intro article p{font-size:1.6em; line-height:1.6em;}
